@@ -1,0 +1,7 @@
+Found a 3 line (48 tokens) duplication in the following files: 
+Starting at line 66 of C:\Users\DYN\Desktop\1140310211-Lab1-Code\1140310211-Lab1-Code\Lab1\src\protest2\Test.java
+Starting at line 74 of C:\Users\DYN\Desktop\1140310211-Lab1-Code\1140310211-Lab1-Code\Lab1\src\protest2\Test.java
+
+				for (int d = 0; d < fstr[j].length(); d++) {	
+					if (fstr[j].toCharArray()[d] 
+							== str.toString().toCharArray()[four]) {
